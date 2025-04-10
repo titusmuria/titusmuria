@@ -1,8 +1,7 @@
-  Names: Titus muuria machiuka
-  RegNo: EB3/62553/22
-
-  Factorial code 
-  using java language
+ //  Names: Titus muuria machiuka
+ // RegNo: EB3/62553/22
+ // Factorial code 
+ //using java language
 
 import java.util.Scanner; // Import Scanner for user input
 
